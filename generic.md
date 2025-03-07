@@ -1,13 +1,25 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: "Bankrolling Empire"
+description: "Family fortunes and political transformation in Mughal India"
+image: assets/images/bankrolling-empire-cover.jpg  # Update with your book cover image
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+### **Bankrolling Empire: Family Fortunes and Political Transformation in Mughal India**  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+How did family businesses navigate political uncertainty and shape state power across generations? *Bankrolling Empire* explores the financial and political strategies of a prominent business dynasty in Mughal India. Spanning centuries, the book examines how entrepreneurial networks, banking, and global trade shaped the trajectory of South Asia’s economic history.  
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+#### **Inside the Book:**
+✅ The rise of a merchant family at the heart of Mughal finance  
+✅ How economic power translated into political influence  
+✅ The impact of colonial transformations on business dynasties  
+✅ The legacy of these financial networks in today’s fast-fashion and textile industries  
+
+### **Where to Buy & Learn More**
+📖 Available on **[Amazon](https://a.co/d/gzq6GjN)** and **[Google Books](https://books.google.com/)**  
+🔍 Read scholarly reviews on **[Google Scholar](https://scholar.google.com/citations?user=ldgGoNYAAAAJ&hl=en)**  
+📰 Featured in **Hindustan Times, Economic & Political Weekly, and Business History Review**  
+
+### **Get in Touch**
+For speaking engagements, interviews, or academic collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sudev-sheth/) or email me at **sudev@wharton.upenn.edu

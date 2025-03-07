@@ -1,36 +1,34 @@
-# site settings
-title: Sudev Sheth
-subtitle: Author & Educator
-email: sudev@wharton.upenn.edu
-description: University of Pennsylvania
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site 
-city: Philadelphia
-state: PA
+# Site Settings
+title: "Sudev Sheth"
+subtitle: "Author, Educator, & Historian"
+email: "sudev@wharton.upenn.edu"
+description: "Senior Lecturer at the University of Pennsylvania, historian of business, entrepreneurship, and South Asia."
+baseurl: ""  # Leave empty since you're hosting at the root domain
+url: "https://www.sudevsheth.com"  # Your custom domain
+city: "Philadelphia"
+state: "PA"
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+# Homepage Tiles
+tiles-source: "pages"  # Accepts "posts" or "pages"
+tiles-count: 4  # Increased count for more content visibility
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
+# Social Settings (Icons must match Font Awesome names)
 socials:
-  GitHub: https://github.com/sudevsheth
-  Google Scholar: https://scholar.google.com/citations?user=ldgGoNYAAAAJ&hl=en
-  Amazon: https://a.co/d/gzq6GjN
-  LinkedIn: https://www.linkedin.com/in/sudev-sheth/
-  Twitter: https://x.com/SudevSheth
+  GitHub: "https://github.com/sudevsheth"
+  Google Scholar: "https://scholar.google.com/citations?user=ldgGoNYAAAAJ&hl=en"
+  Amazon: "https://a.co/d/gzq6GjN"
+  LinkedIn: "https://www.linkedin.com/in/sudev-sheth/"
+  Twitter: "https://x.com/SudevSheth"
 
-# build settings
+# Build Settings
 markdown: kramdown
 
 sass:
   style: compressed
 
+# Exclude Files from Build Process
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
